@@ -1,0 +1,4 @@
+I tre standard alla base del Web sono:
+-HTML(HyperText Markup Language): è un linguaggio di markup progettato per dare formato (cioè consentire la corretta identificazione del formato dati  e la disponibilà di apposite applicazioni sul computer ricevente) a documenti con struttura ipertestuale.
+-URI(Uniform Resource Identifier): serve per l'identificazione delle risorse, infatti nel W.W.W. ogni risorsa è identificata da un identificatore globale(URI)
+-HTTP(HyperText Transfer Protocol):Permette di scambiare messaggi su una rete informatica, è basato sul modello client e server, l'interazione di essi è iniziata esclusimante dal client, e comunicano attraverso pull (quando il client chiede al server delle informazioni) e push (quando il server manda delle informazioni al client, senza una richiesta esplicita del client)
